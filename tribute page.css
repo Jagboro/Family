@@ -1,0 +1,24 @@
+#img-div {width: 80%; 
+          margin: auto; 
+          display: block;}
+.image { max-width: 100%; 
+         margin: auto; 
+         display: block; }
+figcaption {text-align:center; 
+        text-transform:uppercase; 
+        font-weight: bold; 
+        font-size: 20px;}
+h1, p.above {text-align: center;}
+p {font-size: 14px;
+padding: 15px;
+margin: 10px;}
+
+article {width: 80%; 
+                margin:auto; 
+                text-align: justify;}
+footer {background-color: black; 
+                color: gray; 
+                text-align: center;}
+li {display: inline; 
+        padding: 25px;}
+marquee {color:red;}
